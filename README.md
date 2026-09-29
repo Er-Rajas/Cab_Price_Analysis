@@ -267,16 +267,15 @@ Cab_Price_Analysis/
 
 ## 📷 Dashboard Preview
 
-Add your Power BI screenshots to `images/` and use:
 
 ### Overview
-![Cab Fare Overview](images/overview.png)
+![Cab Fare Overview](images/Overview.png)
 
 ### Ride & Pricing Analysis
-![Ride & Pricing Analysis](images/ride-pricing-analysis.png)
+<img width="1279" height="720" alt="Financial Analysis" src="https://github.com/user-attachments/assets/169f698b-a292-41ef-9190-f1413a725ab0" />
 
 ### Fare Regression & Prediction
-![Fare Regression & Prediction](images/fare-prediction.png)
+<img width="1277" height="718" alt="Fare Prediction" src="https://github.com/user-attachments/assets/5e00b85b-8c40-4986-8748-23125133880c" />
 
 ---
 
@@ -309,7 +308,6 @@ Add your Power BI screenshots to `images/` and use:
 
 GitHub: [Er-Rajas](https://github.com/Er-Rajas)
 
-Bachelor of Engineering — Electrical Engineering  
 Interests: Data Science, Machine Learning, AI & Analytics
 
 ---
